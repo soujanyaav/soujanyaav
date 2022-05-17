@@ -2,6 +2,9 @@
 
 #### I'm Soujanya Nayak, a budding Web Developer 
 
+![Soujanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soujanyaav&count_private=true&show_icons=true&theme=cobalt)
+
+
 ##### BIO
 
 - 🏢 I'm currently studying at **IIT Kharagpur**
@@ -10,4 +13,4 @@
 - 💬 Ping me about **web-development**, **react-development**, **development**, **design**
 - 📫 Reach me: [linkedin.com/soujanyanayak/](https://www.linkedin.com/in/soujanyanayak/)
 - Portfolio: [soujanya.portfolio](https://soujanyaav.vercel.app/)
-[![Soujanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soujanyaav)](https://github.com/soujanyaav/github-readme-stats)
+
